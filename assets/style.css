@@ -45,7 +45,7 @@
     .hero-content { padding-top:80px; max-width:630px; }
     .hero-kicker { display:inline-flex; align-items:center; gap:12px; color:#fff; font-size:.76rem; letter-spacing:.22em; font-weight:700; }
     .hero-kicker::before { content:""; width:28px; height:1px; background:var(--pink); box-shadow:0 0 12px var(--pink); }
-    .hero-content h1 { margin:24px 0; font-size:clamp(2.55rem, 6.2vw, 4.7rem); line-height:1.26; letter-spacing:.045em; font-weight:900; }
+    .hero-content h1 { margin:24px 0; font-size:clamp(2.55rem, 6.2vw, 4.4rem); line-height:1.26; letter-spacing:.045em; font-weight:900; }
     h1 .accent { color:var(--pink-soft); text-shadow:0 0 28px rgba(255,55,197,.4); }
     .hero-copy { margin:0; color:#e1dfe6; font-size:clamp(1rem, 1.65vw, 1.3rem); font-weight:500; }
     .hero-copy strong { color:#fff; }
